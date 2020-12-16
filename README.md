@@ -9,6 +9,7 @@ The database comprises data from 6674 individual SPN components from 2215 subjec
 For news and updates from the Shape & Symmetry Lab:
 
 https://twitter.com/lab_shape
+
 https://bertamini.org/lab/index.html
 
 For issues relating to this tool, please raise an issue here, or email:
