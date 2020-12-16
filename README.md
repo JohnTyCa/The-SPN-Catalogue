@@ -31,7 +31,7 @@ John Tyson-Carr - HLJTYSON@LIVERPOOL.AC.UK
 
     Note that the database comprises data from 40 projects requiring 2GB+ of memory, but you are free to only download the required projects - the tool will still work with a         subset of the projects.
     
-3)  The data must be placed inside the "Data" folder located with with executable file. The "Data" folder will include data from each project, with each folder referring to a       single project. If the data is located elsewhere, you will be required to provide the path when the tool is opened. 
+3)  The data must be placed inside the "Data" folder located with the executable file. The "Data" folder will include data from each project, with each folder referring to a       single project. If the data is located elsewhere, you will be required to provide the path when the tool is opened. 
 
 ## Further Information
 
