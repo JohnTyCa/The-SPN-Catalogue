@@ -42,8 +42,14 @@ This tool was compiled on WINDOWS. Hence, it is not compatible with other operat
 ## Authors
 
 Alexis D.J. Makin
+
 John Tyson-Carr
+
 Giulia Rampone
+
 Yiovanna Derpsch
+
 Damien Wright
+
 Marco Bertamini
+
