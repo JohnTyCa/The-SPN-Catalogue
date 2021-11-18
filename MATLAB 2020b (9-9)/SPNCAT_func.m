@@ -2082,7 +2082,7 @@ classdef SPNCAT_func < matlab.apps.AppBase
             if isdeployed() | strcmp(File_Name,'SPNCAT')
                 app.ExportApp = SPNCAT_Export(app);
             else
-                app.ExportApp = SPNCAT_Export_exported(app);
+                app.ExportApp = SPNCAT_Export_func(app);
             end
             
         end
