@@ -36,7 +36,7 @@ John Tyson-Carr - HLJTYSON@LIVERPOOL.AC.UK
 
 ## Further Information
 
-This tool was designed originally using MATLAB 2020b (9.9) and uses features only available in MATLAB 2019a onwards. For this reason, backwards compatibility is limited with the tool in its current state. However, if there are any issues with using this app for any reason, for example, if you are unable to use later versions of MATLAB, please contact us and we will aim to find a solution.
+This tool was designed using MATLAB 2020b (9.9). However, if there are any issues with using this app for any reason, for example, if you are unable to use later versions of MATLAB, please contact us and we will aim to find a solution.
 
 This tool was compiled on WINDOWS. Hence, it is not compatible with other operating systems at the moment.
 
