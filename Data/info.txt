@@ -1,3 +1,0 @@
-This folder should contain the data for the projects. Please keep them in the format of "Project 1", "Project 2", etc. 
-
-No other folders should be present here.
