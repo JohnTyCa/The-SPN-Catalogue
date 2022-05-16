@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 This folder should contain the data for the projects. Please keep them in the format of "Project 1", "Project 2", etc. 
 
+=======
+This folder should contain the data for the projects. Please keep them in the format of "Project 1", "Project 2", etc. 
+
+>>>>>>> 52551fcd30378b7fbd4114447208acde860faa48
 No other folders should be present here.
