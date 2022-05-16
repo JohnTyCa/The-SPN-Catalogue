@@ -2,9 +2,9 @@
 
 ## General Information
 
-This app allows you to visualise data from the Shape & Symmetry Lab with respect to the visually evoked event-related component, the Sustained Posterior Negativity (SPN).
+The database comprises data from 6674 individual SPN components from 2215 subjects spanning across 40 separate projects recorded since 2012. In an attempt to facilitate open-science procedures, we present here an easy-to-use tool for visualizing and exporting data from any project of interest.
 
-The database comprises data from 6674 individual SPN components from 2215 subjects spanning across 40 separate projects recorded since 2012. In an attempt to facilitate open-science procedures, we present here an easy-to-use tool for visualising and exporting data from any project of interest. 
+This tool allows users to flexibly visualize and export data for further analysis in an attempt to remove barriers to open-science. 
 
 For news and updates from the Shape & Symmetry Lab:
 
@@ -16,23 +16,31 @@ For issues relating to this tool, please raise an issue here, or email:
 
 John Tyson-Carr - HLJTYSON@LIVERPOOL.AC.UK
 
-## Instructions
+### If you do not have MATLAB installed
 
-1)  This tool was developed using MATLAB. However, we have compiled this tool into a standalone executable file that only requires MATLAB Runtime to run. MATLAB Runtime does not       require MATLAB to be installed. MATLAB Runtime is also royalty-free, and thus, it does not require a MATLAB license to be utilised.
+1. This tool was developed using MATLAB. However, we have compiled this tool into a standalone executable file that only requires MATLAB Runtime to run. MATLAB Runtime does not require MATLAB to be installed. MATLAB Runtime is also royalty-free, and thus, it does not require a MATLAB license to be utilized. This app only requires that you download and install the appropriate MATLAB Runtime (if not installed already). First, download the repository from the following page (including dependencies and resources):
+https://github.com/JohnTyCa/The-SPN-Catalogue
 
-    This app only requires that you download and install the appropriate MATLAB Runtime (if not installed already). To facilitate this, we have compiled the app using multiple         MATLAB Runtime versions to maximise compatibility. Simply download the executable file compiled using the version of MATLAB already installed on your computer. If your version     of MATLAB is not available in the list, or if you do not have MATLAB installed on your computer, please download the tool compiled with the latest version of MATLAB listed. 
-    
-    Next, head to the following website to download the corresponding version of MATLAB Runtime:
-    
-    https://uk.mathworks.com/products/compiler/matlab-runtime.html
+Next, head to the following website to download MATLAB Runtime 9.9.
 
-2)  After installing MATLAB Runtime, the data is available to be downloaded on Open Science Framework at:
+https://uk.mathworks.com/products/compiler/matlab-runtime.html
 
-    https://osf.io/2sncj/
+2. After installing MATLAB Runtime, the data is available to be downloaded on Open Science Framework at:
 
-    Note that the database comprises data from 40 projects requiring 2GB+ of memory, but you are free to only download the required projects - the tool will still work with a         subset of the projects.
-    
-3)  The data must be placed inside the "Data" folder located with the executable file. The "Data" folder will include data from each project, with each folder referring to a       single project. If the data is located elsewhere, you will be required to provide the path when the tool is opened. 
+https://osf.io/2sncj/
+
+Note that the database comprises data from 40 projects requiring ~940 GB of storage, but you are free to only download the required projects - the tool will still work with a subset of the projects.
+
+### If you have MATLAB installed
+
+1. For those who have MATLAB already, we have also made the app available in the form of a simple MATLAB function. Simply download the repository from the following page (including dependencies and resources):
+https://github.com/JohnTyCa/The-SPN-Catalogue
+
+2. After installing MATLAB Runtime, the data is available to be downloaded on Open Science Framework at:
+
+https://osf.io/2sncj/
+
+Note that the database comprises data from 40 projects requiring ~940 GB of storage, but you are free to only download the required projects - the tool will still work with a subset of the projects.
 
 ## Further Information
 
