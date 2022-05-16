@@ -36,7 +36,7 @@ Note that the database comprises data from 40 projects requiring ~940 GB of stor
 1. For those who have MATLAB already, we have also made the app available in the form of a simple MATLAB function. Simply download the repository from the following page (including dependencies and resources):
 https://github.com/JohnTyCa/The-SPN-Catalogue
 
-2. After installing MATLAB Runtime, the data is available to be downloaded on Open Science Framework at:
+2. The required data is available to be downloaded on Open Science Framework at:
 
 https://osf.io/2sncj/
 
